@@ -89,7 +89,7 @@ diff -urN sl-3.03/sl-car.h sl-3.04/sl-car.h
 +/*========================================
 + *    sl-car.h: Text data of sportscar of SL version 3.04
 + *	Copyright 2008 Onur YALAZI
-+ *		(yalazi@gen3.com.tr)
++ *		(yalazi@mobilada.com)
 + *	Last Modified: 2008/11/8
 + *========================================
 + */
