@@ -1,0 +1,6 @@
+
+sl-car is a patch that brings car typo ability to mostly known sl ‘Smoking Locomotive’ command 
+written by Toyoda Masashi. just patch, compile, install, and link sl command with car command.
+( ln -s /usr/bin/sl /usr/bin/car ).
+
+This will bring a NOS supported car to your terminal.
